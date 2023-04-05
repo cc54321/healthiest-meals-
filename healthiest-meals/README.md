@@ -1,5 +1,6 @@
 Healthiest Meals Ecommerce Store
-Welcome to the Healthiest Meals Ecommerce Store! In this web application, you will have the ability to view different recipes and purchase any ingredients you may need to make it.
+Welcome to the Healthiest Meals Ecommerce Store! In this web application, 
+you will have the ability to view different recipes and purchase any ingredients you may need to make it.
 
 User Story
 In this web application, users will be able to:
